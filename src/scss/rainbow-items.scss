@@ -1,0 +1,40 @@
+.rainbow-main {
+    &__container {
+        & > .item--1 {
+            background-color: #000;
+        }
+        & > .item--2 {
+            background-color:  #051242;
+        }
+        & > .item--3 {
+            background-color: #051b74;
+        }
+        & > .item--4 {
+            background-color: #062fad;
+        }
+        & > .item--5 {
+            background-color: #044ada;
+        }
+        & > .item--6 {
+            background-color: #0f6fff;
+        }
+        & > .item--7 {
+            background-color: #408cff;
+        }
+        & > .item--8 {
+            background-color: #6ea6ff;
+        }
+        & > .item--9 {
+            background-color: #96c1ff;
+        }
+        & > .item--10 {
+            background-color: #cadeff;
+        }
+        & > .item--11 {
+            background-color: #edf4ff;
+        }
+        & > .item--12 {
+            background-color: #ffffff;
+        }
+    }
+}
